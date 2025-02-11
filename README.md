@@ -1,5 +1,5 @@
 # 武威第十八中学考试时钟 / ExamClock
-
+https://sandec9.github.io/examtime
 ## 概述 / Introduction
 
 此项目源作者为https://github.com/L33Z22L11/ExamClock
