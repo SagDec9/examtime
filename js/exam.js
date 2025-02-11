@@ -18,7 +18,7 @@ exams["2022-05-14"] = {
 };
 
 exams[25] = {
-  type: "高三日常",
+  type: "高三·日常",
   author: "招募“高三日常”维护者",
   origin: "高三年级部",
   mainSlogan: `距离高考${specialDate.cee25}天`,
