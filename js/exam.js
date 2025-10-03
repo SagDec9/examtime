@@ -2,7 +2,7 @@ console.groupCollapsed("\n%c  %c考试时钟 ExamClock", "background:url('./favi
 console.log("\n项目仓库：https://github.com/L33Z22L11/ExamClock\n野生技协群：894656456\n\n");
 console.groupEnd();
 /* 
- * 适用于宝鸡中学的考试科目列表
+ * 适用于武威十八中的考试科目列表
  */
 
 let specialDate = {
